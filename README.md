@@ -11,4 +11,5 @@
   <img align="center" alt="YuukiPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="YuukiCsharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="YuukiCPP" height="30" width = "40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="right" alt="Yuuki" src="https://i.imgur.com/Pjxd7J8.png">
 </div>
