@@ -1,4 +1,3 @@
-### Sou Yuuki... ou pelo menos gostaria mas esse é só meu nick ):
 
  <div>
   <a href="https://github.com/CallMeYuuki">
