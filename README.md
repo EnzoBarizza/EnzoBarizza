@@ -1,6 +1,6 @@
 ### 👋 • Olá eu sou Neuki
 
-- 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **C/C++**, **C#** e **Java**.
+- 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **C/C++**, **C#**, **Java** e **Kotlin**.
 - 🌹 Eu estou estudando para ser um desenvolvedor **Full Stack**, embora ache que no futuro serei do **BackEnd**.
 - 🎓 Pretendo fazer faculdade de **Ciências da Computação** ou **Engenharia de Software** ou **Segurança da Informação**.
 
@@ -12,6 +12,8 @@
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" height="32px" width="32px" alt="TS logo" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" height="32px" width="32px" alt="Java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="left" height="32px" width="32px" alt="Kotlin logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 <img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="left" height="32px" width="32px" alt="C logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="left" height="32px" width="32px" alt="C++ logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
