@@ -1,7 +1,7 @@
 ### 👋 • Olá eu sou Neuki
 
 - 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **C/C++**, **C#**, **Java** e **Kotlin**.
-- 🌹 Eu estou estudando para ser um desenvolvedor **Full Stack**, embora acredito que no futuro irei para o lado do **BackEnd**.
+- 🌹 Eu estou estudando para ser um desenvolvedor **Full Stack**.
 - 🎓 Pretendo fazer faculdade de **Ciência da Computação** ou **Engenharia de Software** ou **Segurança da Informação**.
 
 ### 📐 • Linguagens e Ferramentas
