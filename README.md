@@ -1,6 +1,6 @@
 ### 👋 • Olá eu sou Neuki
 
-- 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **C#**, **Java** e **Kotlin**.
+- 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **Java** e **Kotlin**.
 - 🌹 Eu estou estudando para ser um desenvolvedor **Full Stack**.
 - 🎓 Pretendo fazer faculdade de **Ciência da Computação** ou **Engenharia de Software** ou **Segurança da Informação**.
 
@@ -14,7 +14,6 @@
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="32px" width="32px" alt="Java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="left" height="32px" width="32px" alt="Kotlin logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-<img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" height="32px" width="32px" alt="Intellij IDEA" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png">
