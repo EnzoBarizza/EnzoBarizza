@@ -1,21 +1,19 @@
-### 👋 • Olá eu sou Neuki
+### 👋 • Eai Beleza?
 
-- 👥 Eu atualmente estou estudando **JavaScript**, **TypeScript**, **Python**, **C#**.
-- 🌹 Eu estou estudando para ser um desenvolvedor **Full Stack**.
-- 🎓 Pretendo fazer faculdade de **Ciência da Computação** ou **Engenharia de Software** ou **Segurança da Informação**.
+Meu nome é Enzo mas pode me chamar de Neuki, tenho 14 anos e ainda estou estudando varias áreas da programação para decidir qual delas eu mais gosto, atualmente estou estudando **C#** com **Unity**
 
-### 📐 • Linguagens e Ferramentas
+### 📐 • Linguagens e Ferramentas que já usei 
 
 <img align="left" height="32px" width="32px" alt="HTML logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="left" height="32px" width="32px" alt="CSS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="left" height="32px" width="32px" alt="SASS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 <img align="left" height="32px" width="32px" alt="JS logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 <img align="left" height="32px" width="32px" alt="TS logo" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 <img align="left" height="32px" width="32px" alt="Python logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" height="32px" width="32px" alt="Unity logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+<img align="left" height="32px" width="32px" alt="CPP logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<img align="left" height="32px" width="32px" alt="Unreal logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="left" height="32px" width="32px" alt="VS Сode logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="left" height="32px" width="32px" alt="Intellij IDEA" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
