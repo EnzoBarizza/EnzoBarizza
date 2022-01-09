@@ -1,6 +1,7 @@
 ### 👋 • Eai Beleza?
 
 Meu nome é Enzo mas pode me chamar de Neuki, tenho 14 anos e ainda estou estudando varias áreas da programação para decidir qual delas eu mais gosto.
+Atualmente Estudando **C#** e **Go**
 
 ### 📐 • Linguagens e Ferramentas que já usei 
 
@@ -13,10 +14,10 @@ Meu nome é Enzo mas pode me chamar de Neuki, tenho 14 anos e ainda estou estuda
 <img align="left" height="32px" width="32px" alt="Unity logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
 <img align="left" height="32px" width="32px" alt="CPP logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="left" height="32px" width="32px" alt="Unreal logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png">
+<img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
 <img align="left" height="32px" width="32px" alt="Node.js logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" height="32px" width="32px" alt="Git logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="left" height="32px" width="32px" alt="GitHub logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
 <br/>
 
 ### ⭐ • Status do Github
