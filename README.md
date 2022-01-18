@@ -1,7 +1,7 @@
 ### 👋 • Eai Beleza?
 
-Meu nome é Enzo mas pode me chamar de Neuki, tenho 14 anos e ainda estou estudando varias áreas da programação para decidir qual delas eu mais gosto.
-Atualmente Estudando **C#**
+Meu nome é Enzo Barizza, tenho 14 anos e ainda estou estudando varias áreas da programação para decidir qual delas eu mais gosto.
+Atualmente Estudando **C#** e **Angular 11**
 
 ### 📐 • Linguagens e Ferramentas que já usei 
 
