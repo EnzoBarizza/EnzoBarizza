@@ -1,6 +1,6 @@
 ### 👋 • Eai Beleza?
 
-Meu nome é Enzo Barizza, tenho 14 anos e ainda estou estudando varias áreas da programação para decidir qual delas eu mais gosto, pra mim é quase impossível escolher 1 coisa em meio de muitas (:
+Meu nome é Enzo Barizza, tenho 14 anos, atualmente estou estudando Java, Kotlin e Spring
 
 ### ⭐ • Status do Github
 
