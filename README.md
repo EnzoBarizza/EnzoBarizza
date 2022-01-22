@@ -1,6 +1,17 @@
 ### 👋 • Eai Beleza?
+Meu nome é Enzo Barizza, tenho 14 anos.
 
-Meu nome é Enzo Barizza, tenho 14 anos, atualmente estou estudando Java, Kotlin e Spring
+### 📚 • Atualmente Estudando
+<img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="left" height="32px" width="32px" alt="JAVA logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="left" height="32px" width="32px" alt="Kotlin logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+<img align="left" height="32px" width="32px" alt="Spring logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+<img align="left" height="32px" width="32px" alt="Javascript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="left" height="32px" width="32px" alt="Vue logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img align="left" height="32px" width="32px" alt="Typescript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+
+
+<br>
 
 ### ⭐ • Status do Github
 
