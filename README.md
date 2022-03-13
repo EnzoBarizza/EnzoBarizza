@@ -1,5 +1,5 @@
 ### 👋 • Eai Beleza?
-Meu nome é Enzo Barizza, tenho 14 anos.
+Meu nome é Enzo Barizza, tenho 15 anos.
 
 ### 📚 • Atualmente Estudando
 <img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
