@@ -6,8 +6,6 @@ Meu nome é Enzo Barizza, tenho 15 anos.
 <img align="left" height="32px" width="32px" alt="Kotlin logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 <img align="left" height="32px" width="32px" alt="C# logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <img align="left" height="32px" width="32px" alt="C++ logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-<img align="left" height="32px" width="32px" alt="Javascript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="left" height="32px" width="32px" alt="Typescript logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 <br>
 
