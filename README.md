@@ -15,4 +15,4 @@ Meu nome é Enzo Barizza, tenho 16 anos.
 
 ### 🔗 • Linguagens mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBarizza&layout=compact&title_color=00D600&icon_color=AE224A&text_color=FFFFFF&bg_color=0,000000,007600&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoBarizza&layout=compact&title_color=00D600&icon_color=AE224A&text_color=FFFFFF&bg_color=0,000000,007600&langs_count=6&count_private=true)
