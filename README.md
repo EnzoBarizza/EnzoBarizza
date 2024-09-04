@@ -1,10 +1,10 @@
 ### 👋 • Eai Beleza?
-Meu nome é Enzo Barizza, tenho 16 anos.
+Meu nome é Enzo Barizza, tenho 17 anos.
 
 ### 📚 • Atualmente Estudando
 <img align="left" height="32px" width="32px" alt="Java logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="left" height="32px" width="32px" alt="Ts logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-<img align="left" height="32px" width="32px" alt="Godot logo" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
+<img align="left" height="32px" width="32px" alt="Go logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+<img align="left" height="32px" width="32px" alt="Godot logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg">
 <img align="left" height="32px" width="32px" alt="Rust logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg">
 
 <br>
