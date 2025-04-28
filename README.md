@@ -1,5 +1,5 @@
 ### 👋 • Eai Beleza?
-Meu nome é Enzo Barizza, tenho 17 anos.
+Meu nome é Enzo Barizza, tenho 18 anos.
 
 ### ⭐ • Status do Github
 
